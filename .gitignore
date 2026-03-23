@@ -14,4 +14,4 @@ terraform.tfvars
 
 # IDE
 .vscode/
-.idea/
+.idea/d
